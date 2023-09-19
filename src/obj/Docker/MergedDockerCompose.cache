@@ -1,0 +1,43 @@
+name: dockercompose12927081159740969734
+services:
+  catalog.api:
+    build:
+      context: D:\Xtreme Thoughts\Microservices\src
+      dockerfile: Catalog.API/Dockerfile
+    depends_on:
+      catalogdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DatabaseSettings:ConnectionString: mongodb://catalogdb:27017
+      ElasticConfiguration:Uri: http://elasticsearch:9200
+    image: catalogapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8000"
+      protocol: tcp
+  catalogdb:
+    container_name: catalogdb
+    image: mongo
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 27017
+      published: "27017"
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: mongo_data
+      target: /data/db
+      volume: {}
+networks:
+  default:
+    name: dockercompose12927081159740969734_default
+volumes:
+  mongo_data:
+    name: dockercompose12927081159740969734_mongo_data
