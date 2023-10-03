@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fQtEkL4jG5/bRfQSlmM55nPZbBomLwEbQr69AkytXkmALDCbvcX6cucU7Py2Z1KnoSeD7XLr9sLkJjn3JZZ4fw==",
+  "dgSpecHash": "sAPZedwGdIMytXkm7+BaIzF/Ig0WsdNAMa2Jf3laLzYUcv98XUglSbCpj+Hv5FGJ8ue9HpnUaSl3QvMjaggRtw==",
   "success": true,
   "projectFilePath": "D:\\Xtreme Thoughts\\Microservices\\src\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,8 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+    "C:\\Users\\Lenovo\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

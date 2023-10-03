@@ -5,7 +5,6 @@ D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Basket.API.deps
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Basket.API.runtimeconfig.json
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Basket.API.runtimeconfig.dev.json
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Basket.API.dll
-D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\ref\Basket.API.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Basket.API.pdb
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
@@ -14,6 +13,7 @@ D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Microsoft.Exten
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\StackExchange.Redis.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -32,12 +32,17 @@ D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.Asse
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.csproj.CoreCompileInputs.cache
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.MvcApplicationPartsAssemblyInfo.cache
-D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\Basket.API.StaticWebAssets.Manifest.cache
-D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\Basket.API.StaticWebAssets.xml
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\scopedcss\bundle\Basket.API.styles.css
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\Basket.API.StaticWebAssets.Manifest.cache
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\Basket.API.StaticWebAssets.Pack.cache
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\msbuild.Basket.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Basket.API.props
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Basket.API.props
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Basket.API.props
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.RazorTargetAssemblyInfo.cache
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.csproj.CopyComplete
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.dll
-D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\ref\Basket.API.dll
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\refint\Basket.API.dll
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.pdb
 D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\Basket.API.genruntimeconfig.cache
+D:\Xtreme Thoughts\Microservices\src\Basket.API\obj\Debug\net5.0\ref\Basket.API.dll
